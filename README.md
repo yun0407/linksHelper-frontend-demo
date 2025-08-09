@@ -71,6 +71,7 @@ linksHelper/
 ├── infra/ # 部署與系統設定檔案
 │ ├── apache/ssl.conf
 │ ├── cron/clear_redis.cron
+│ ├── redis/redis.conf
 │ ├── scripts/
 │ │ ├── clear_redis.sh
 │ │ └── linkshelper_monitor.sh
